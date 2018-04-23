@@ -2,7 +2,9 @@ import java.util.List;
 
 public class Log {
 
-    /*Private Variables*/
+    /*
+     * Private Variables
+     * */
 
     public List<String> LogList;
 }
